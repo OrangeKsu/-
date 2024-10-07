@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+    background: url("градиент.png");
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.kart{
+    width: 500px;
+}
